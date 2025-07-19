@@ -1,20 +1,20 @@
 # Data Scientist
 
-### Education
-# MMath Mathematics, University of St Andrews
+# Education
+## MMath Mathematics, University of St Andrews
 Did bits
  - Deans' list (2021-22, 2022-23, 2023-24, 2024-25_
  - Medal for 3rd level statistics (2024)
  - 17.5 Grade average (first class honours)
 
-### Work Experience
+# Work Experience
 AI Trainer, Data Annotation (Apr 2024 - present)
  - Part Time
 
 Research Intern, University of St Andrews (Sept 2023 - Jan 2024)
  - helped some research
    
-### Volunteer Roles
+# Volunteer Roles
 Researcher, University of Glasgow
  - under supervision of two researchers,  
 
@@ -27,4 +27,4 @@ Logistics Officer, St Candrews
 Senior Student, John Burnet Hall
  - ahdasd
    
-### Projects
+# Projects
